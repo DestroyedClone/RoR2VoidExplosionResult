@@ -1,0 +1,10 @@
+{
+  "name": "VoidExplosionResult",
+  "version_number": "0.0.0",
+  "website_url": "https://github.com/DestroyedClone/RoR2VoidExplosionResult",
+  "description": "Transforms Void Exploded Commandos into VoidFiend and spawns an umbra.",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.1903",
+    "RiskofThunder-R2API_Language-1.0.1"
+  ]
+}
